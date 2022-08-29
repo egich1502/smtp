@@ -1,5 +1,7 @@
 # smtp
 
+Пример запуска в cmd: python smtp.py
+
 # inputData
 структура файла
 * сервер отправителя
